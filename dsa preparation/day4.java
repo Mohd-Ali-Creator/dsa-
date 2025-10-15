@@ -42,4 +42,7 @@ class Solution {
     
         return (n==1);
     }
+
 }
+
+// it is an boolean function
