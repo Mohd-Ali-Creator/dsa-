@@ -58,4 +58,11 @@ class Solution {
         }
         return k;
     }
+
 }
+
+
+//hum arr ko check karenge ki kitne count missing hai arr[i] se K se compare karenge 
+// agar kse kam hai to k++ karenge
+//nahi ti break kar denge
+// return kardo k
