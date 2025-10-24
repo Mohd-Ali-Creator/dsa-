@@ -48,4 +48,7 @@ class Solution {
         return result;
 
     }
+
 }
+
+// it is the intersection of arrayb so we use set to remove duplicacy
