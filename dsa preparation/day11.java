@@ -50,4 +50,9 @@ class Solution {
         }
         return new int[]{};
     }
+
 }
+
+
+
+// it can also be done through brut force method
