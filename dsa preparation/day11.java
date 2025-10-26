@@ -54,5 +54,3 @@ class Solution {
 }
 
 
-
-// it can also be done through brut force method
