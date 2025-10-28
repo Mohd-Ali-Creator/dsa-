@@ -52,3 +52,5 @@ class Solution {
 }
 
 // it is the intersection of arrayb so we use set to remove duplicacy
+// this is done with the concept  of hashing
+
